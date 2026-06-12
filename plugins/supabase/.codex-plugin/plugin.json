@@ -1,6 +1,6 @@
 {
   "name": "supabase",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Access your Supabase projects and perform tasks like managing tables, fetching config, and querying data.",
   "author": {
     "name": "Supabase",
@@ -38,6 +38,6 @@
       "Optimize my Postgres queries and indexes using Supabase best practices."
     ],
     "brandColor": "#3ECF8E",
-    "logo": "./assets/logo.svg"
+    "logo": "./assets/logo-padded.svg"
   }
 }
