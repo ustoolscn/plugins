@@ -1,7 +1,7 @@
 {
-  "name": "cooper",
+  "name": "cooperAPI2",
   "interface": {
-    "displayName": "cooper official"
+    "displayName": "cooperAPI2"
   },
   "plugins": [
     {
